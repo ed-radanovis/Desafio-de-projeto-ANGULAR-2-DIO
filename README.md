@@ -1,27 +1,64 @@
-# BuzzFeedAngular
+# Desafio-de-projeto-ANGULAR-2-DIO
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Academic project for delivery
 
-## Development server
+> Result of the semi-finished project. This project aimed to establish the knowledge acquired in the ANGULAR / TypeScript module:
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=1572B6)
+- ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="src/assets/images/Model.png" alt="print-screen-image" width="1000px" >
+<img src="src/assets/images/Model_1.png" alt="print-screen-image" width="1000px">
+<br>
 
-## Build
+## 🤝 Collaborators
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
+        <img src="src/assets/images/foto perfil (5).jpeg" width="130px;" alt="Foto de Edmar Radanovis"/><br>
+        <sub>
+          <b>Edmar Radanovis</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+       <a href="https://www.dio.me/">
+        <img src="src/assets/images/logodio.jpg" width="130px;" height="130px;" alt="Logo DIO.me"/><br>
+        <sub>
+          <b>DIO.me</b>
+        </sub>
+      </a>
+  </tr>
+</table>
+<br>
 
-## Running unit tests
+<hr/>
+<br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 👍🏆 special thank's to ...
 
-## Running end-to-end tests
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.nttdata.com/global/en/">
+      <img src="src/assets/images/NTT-Data-Logo.svg.png" width="130px;" alt="Foto logo NTT DATA"/><br>
+      <sub>
+        <b>Trusted Global Innovator</b>
+      </sub>
+      </a>
+    </td>
+  </tr>
+</table> 
+    
+## ...for sponsoring this awesome bootcamp! 👍🏆
+<br>
+<br>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[⬆ Voltar ao topo](#desafio-de-projeto-angular-2-dio)<br>
