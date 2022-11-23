@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  /* color: #faebd7; */
+  color: #1f1147;
+}
+
+body {
+  background: #1f1147;
+  background: linear-gradient(180deg, #1f1147 38%, #22c3be 100%);
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+}
