@@ -11,26 +11,29 @@ Academic project for delivery
 - ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
 
 <br>
-
-<img src="src/assets/images/Model.png" alt="print-screen-image" width="1000px" >
-<img src="src/assets/images/Model_1.png" alt="print-screen-image" width="1000px">
+<p align="center">
+<img src="src/assets/images/Model.png" alt="print-screen-image" width="400px" >
+<br>
+<br>
+<img src="src/assets/images/Model_1.png" alt="print-screen-image" width="400px">
+</p>
 <br>
 
-## 🤝 Collaborators
+#### 🤝 Collaborators
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
-        <img src="src/assets/images/foto perfil (5).jpeg" width="130px;" alt="Foto de Edmar Radanovis"/><br>
+        <img src="src/assets/images/foto perfil (5).jpeg" width="50px;" alt="Foto de Edmar Radanovis"/><br>
         <sub>
-          <b>Edmar Radanovis</b>
+          <b>Edmar<br>Radanovis</b>
         </sub>
       </a>
     </td>
     <td align="center">
        <a href="https://www.dio.me/">
-        <img src="src/assets/images/logodio.jpg" width="130px;" height="130px;" alt="Logo DIO.me"/><br>
+        <img src="src/assets/images/logodio.jpg" width="50px;" height="50px;" alt="Logo DIO.me"/><br>
         <sub>
           <b>DIO.me</b>
         </sub>
@@ -42,13 +45,13 @@ Academic project for delivery
 <hr/>
 <br>
 
-## 👍🏆 special thank's to ...
+##### 👍🏆 special thank's to ...
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.nttdata.com/global/en/">
-      <img src="src/assets/images/NTT-Data-Logo.svg.png" width="130px;" alt="Foto logo NTT DATA"/><br>
+      <img src="src/assets/images/NTT-Data-Logo.svg.png" width="80px;" alt="Foto logo NTT DATA"/><br>
       <sub>
         <b>Trusted Global Innovator</b>
       </sub>
@@ -57,7 +60,7 @@ Academic project for delivery
   </tr>
 </table> 
     
-## ...for sponsoring this awesome bootcamp! 👍🏆
+##### ...for sponsoring this awesome bootcamp! 👍🏆
 <br>
 <br>
 
